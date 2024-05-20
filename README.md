@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sajid Abdullah
 - 👀 I’m interested in Full-stack 
 - 🌱 I’m currently learning Front-end Development with React
-- 💞️ I’m looking to collaborate on open source project
 - 📫 reach me: msajidabdullah.ms7@gmail.com
   
 
